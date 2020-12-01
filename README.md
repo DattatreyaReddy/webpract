@@ -1,2 +1,2 @@
 # webpract
-web dev pract
+web dev
